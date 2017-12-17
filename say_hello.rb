@@ -4,5 +4,7 @@
     "Ruby Programmer"
   end
   
+  say_hello("bob")
+  
   puts say_hello
   
